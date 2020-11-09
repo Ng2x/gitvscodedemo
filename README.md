@@ -1,2 +1,3 @@
 # Learning Git in VSCode
-ss
+
+- second commit
